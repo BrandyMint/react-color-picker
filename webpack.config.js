@@ -7,7 +7,7 @@ module.exports = {
         loaders: require('./loaders.config')
     },
     externals: {
-        'react': 'React'
+        'react': 'react'
     },
     resolve: {
         extensions: ['', '.js', '.jsx']
